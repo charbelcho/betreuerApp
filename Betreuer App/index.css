@@ -1,0 +1,32 @@
+body{
+    font-size: 10px;
+}
+table button{
+    height: 20px;
+    justify-content: flex-start;
+}
+img{
+    height: 0.8rem;
+    width: 0.8rem;
+
+    
+}
+table{
+    border: 1px solid black;
+}
+
+h6{
+    padding-top: 5px;
+    text-decoration: underline;
+}
+.formulare{
+    padding: 5px;
+    border: 1px solid black;
+}
+.menuinfo{
+    padding: 10px;
+    
+}
+div{
+    border-radius: 5px;
+}
